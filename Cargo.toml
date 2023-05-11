@@ -1,7 +1,10 @@
 [package]
-name = "ts3clientlib"
+name = "ts3-clientquery-lib"
 version = "0.0.1-alpha"
 edition = "2021"
+authors = ["KunoiSayami <i@leanhe.dev>"]
+description = "A teamspeak clientquery(tcp) library"
+license = "AGPL-3.0-or-later"
 
 [dependencies]
 serde-teamspeak-querystring = "0.2.1"
